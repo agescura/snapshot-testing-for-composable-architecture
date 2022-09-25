@@ -10,7 +10,21 @@ Snapshot Testing for The Composable Architecture in Swift.
 
 ## Installation
 
+### Swift Package Manager
+
+The [Swift Package Manager](https://swift.org/package-manager/) is a tool for automating the distribution of Swift code and is integrated into the `swift` compiler. 
+
+Once you have your Swift package set up, adding the dependency is as easy as adding it to the `dependencies` value of your `Package.swift`.
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/agescura/snapshot-testing-for-composable-architecture", branch: "main")
+]
+```
+
 ## Use
+
+See Example project or read this entry (in spanish) https://agescura.github.io/snapshot-testing-tca.html
 
 ## Agreements
 

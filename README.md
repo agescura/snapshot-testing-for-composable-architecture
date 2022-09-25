@@ -8,8 +8,15 @@
 
 Snapshot Testing for The Composable Architecture in Swift.
 
-## Instalación
+## Installation
 
-## Uso
+## Use
 
-## Agradecimientos
+## Agreements
+
+Thanks to Pointfree.co for
+
+* The Composable Arquitecture
+* Snapshot Testing
+
+Thanks to Kai Chen solution in https://forums.swift.org/t/is-it-possible-to-assert-snapshot-in-between-teststore-send-and-receive-asserts/36998/5

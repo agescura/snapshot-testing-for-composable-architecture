@@ -7,3 +7,9 @@
 [![Swift Package Manager](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)](https://img.shields.io/badge/Swift_Package_Manager-compatible-orange?style=flat-square)
 
 Snapshot Testing for The Composable Architecture in Swift.
+
+## Instalación
+
+## Uso
+
+## Agradecimientos
